@@ -14,7 +14,7 @@
 ## Installation
 
 ```
-composer require lupennat/nova-expandable-many:^3.0
+composer require huuloc4193/nova-expandable-many:^3.0
 ```
 
 | NOVA     | PACKAGE |
