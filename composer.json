@@ -1,5 +1,6 @@
 {
     "name": "lupennat/nova-expandable-many",
+    "version": "v.3.3.0.3",
     "description": "Laravel Nova - Expandable Many",
     "keywords": [
         "laravel",
